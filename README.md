@@ -12,7 +12,7 @@ My goal is to craft clean, maintainable code and deliver products that balance p
 - Frontend: React.js, Next.js, Redux Toolkit, JavaScript (ES6+), HTML5, CSS3  
 - Styling: Tailwind CSS, Bootstrap, Sass, Responsive Design, Accessibility  
 - Backend (Exposure): Node.js, Express, MongoDB (CRUD, Auth, REST APIs)  
-- Workflow: Git/GitHub, Bitbucket, Agile/Scrum, Deployment (Vercel, Netlify)  
+- Workflow: Git/GitHub, Bitbucket, Agile/Scrum, Deployment (Vercel, Netlify,Hostinger)  
 
 ---
 
